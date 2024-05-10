@@ -3,7 +3,7 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/current/articles": "pages/current/articles.js",
-  "/current/articles/edit/[id]": "pages/current/articles/edit/[id].js",
-  "/current/articles/[id]": "pages/current/articles/[id].js"
+  "/sign_in": "pages/sign_in.js",
+  "/api/health_check": "pages/api/health_check.js",
+  "/sign_up": "pages/sign_up.js"
 }
